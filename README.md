@@ -18,7 +18,7 @@ More patient info will be shown by tapping a patient tile.
 
 By reaching the end of the list, the app will automaticaly load more entries.
 
-##Framework and programming languages
+## Framework and programming languages
 
 - Flutter Framework
 - Dart Language
