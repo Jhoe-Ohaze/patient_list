@@ -4,7 +4,7 @@ This app loads a list of patients and their data from "Pharma Inc" database. (Al
 
 ## Install
 
-To install this app, download the apk from this link: https://github.com/Jhoe-Ohaze/patient_list/releases/download/Release/Pharma.Inc.Patient.List.apk
+To install this app, download the apk from this link: https://github.com/Jhoe-Ohaze/patient_list/releases/download/Release/pharma_inc-patient_list.apk
 
 Open it in your android device, allow installation from unknown sources, then finish the installation.
 
@@ -29,7 +29,7 @@ Este app carrega uma lista de pacientes e seus dados do banco de dados da "Pharm
 O app só está disponível em inglês
 
 ## Instalação
-Para instalar este app, baixe o apk por este link: https://github.com/Jhoe-Ohaze/patient_list/releases/download/Release/Pharma.Inc.Patient.List.apk
+Para instalar este app, baixe o apk por este link: https://github.com/Jhoe-Ohaze/patient_list/releases/download/Release/pharma_inc-patient_list.apk
 
 Abra ele em seu aparelho android, permita a instalação de origens desconhecidas, então finalize a instalação.
 
