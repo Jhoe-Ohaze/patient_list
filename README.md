@@ -20,7 +20,7 @@ By reaching the end of the list, the app will automaticaly load more entries.
 
 ## Framework and programming languages
 
-- Flutter Framework
+- Flutter Framework 2.10.4
 - Dart Language
 
 # Lista de Pacientes - Challenge by Coodesh
@@ -45,5 +45,5 @@ Ao chegar no final da lista, o aplicativo vai automaticamente carregar mais dado
 
 ## Framework e linguagens de programação
 
-- Flutter Framework
+- Flutter Framework 2.10.4
 - Linguagem Dart
